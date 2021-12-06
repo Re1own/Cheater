@@ -18,3 +18,9 @@
 
 * 无CD
 * 随意阳光值
+
+
+
+## GUI
+
+![image-20211206093105474](https://s2.loli.net/2021/12/06/pOEPikXoazQgCs9.png)
